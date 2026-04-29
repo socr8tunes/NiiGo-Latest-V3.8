@@ -1,4 +1,4 @@
-# sixam_mart
+# NiiGo
 
 A new Flutter application.
 
