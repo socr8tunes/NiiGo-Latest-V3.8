@@ -58,13 +58,13 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSCameraUsageDescription</key>
-	<string>This app requires access to the camera to upload customer profile picture.</string>
+	<string>This app requires camera access to upload your profile picture.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>This app needs access to location to manage coverage and add a new address.</string>
+	<string>Allow location access to find your service area and add delivery addresses easily.</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>This app requires access to the camera to upload customer profile picture and voice.</string>
+	<string>This app requires camera and microphone access to upload your profile photo and record voice.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>This app requires access to the gallery to upload customer profile picture.</string>
+	<string>This app requires access to your gallery to upload a profile picture.</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UIBackgroundModes</key>
