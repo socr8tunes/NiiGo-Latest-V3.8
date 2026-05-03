@@ -8,9 +8,45 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:541507556218:android:c2dd968138cf9afe8e7cc3",
+        "mobilesdk_app_id": "1:541507556218:android:631b041a49462be28e7cc3",
         "android_client_info": {
-          "package_name": "com.niigo.courier"
+          "package_name": "com.niigo.deliver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541507556218-r2i0ta5orok4f90jab66gefopnd293a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKBbf7yHPqSHCuwLZtq06fVyecY--GO8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541507556218-r2i0ta5orok4f90jab66gefopnd293a6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "541507556218-29n0e7h8ni121tjsnv5083768lblfonq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.niigo.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541507556218:android:babb90a01a746bea8e7cc3",
+        "android_client_info": {
+          "package_name": "com.niigo.store"
         }
       },
       "oauth_client": [
@@ -51,49 +87,13 @@
       },
       "oauth_client": [
         {
-          "client_id": "541507556218-f0ca8fckkremjfhv9gllo9l5ucss7m27.apps.googleusercontent.com",
+          "client_id": "541507556218-0umang7mkuqfuqoovu7jll2sa3i295if.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.niigo.user",
-            "certificate_hash": "2aa310f001ff4706bf4e0efb729d4e40d84e84bf"
+            "certificate_hash": "4d38347da280b69c85ff9ffe505bb7d59d877d24"
           }
         },
-        {
-          "client_id": "541507556218-r2i0ta5orok4f90jab66gefopnd293a6.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDKBbf7yHPqSHCuwLZtq06fVyecY--GO8g"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "541507556218-r2i0ta5orok4f90jab66gefopnd293a6.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "541507556218-29n0e7h8ni121tjsnv5083768lblfonq.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.niigo.user"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:541507556218:android:f8d94a84941feae98e7cc3",
-        "android_client_info": {
-          "package_name": "com.niigo.vendor"
-        }
-      },
-      "oauth_client": [
         {
           "client_id": "541507556218-r2i0ta5orok4f90jab66gefopnd293a6.apps.googleusercontent.com",
           "client_type": 3
